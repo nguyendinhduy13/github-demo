@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <Button Content="nguyen dinh duy">
+           
+        </Button>
+        <TextBlock>chao ban</TextBlock>
     </Grid>
 </Window>

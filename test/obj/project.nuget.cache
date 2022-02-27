@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wf/c8d2YZ5FrhG2fRjMQv5XjGqPAv0NjqtsLi4NWjAXzwgg8vdbtfyIUNyi/ILFwczKnKRpt0+/UoEJREaaGFA==",
+  "dgSpecHash": "kd8bdoFt0qTfz2C8tmR65QNaAEvqUCQl8ysUL+Nm5J7qQHSne8gacevgzpy+ulNlKt05C334C/xLrr6jrGrXCQ==",
   "success": true,
-  "projectFilePath": "D:\\c#\\github-demo\\test\\test.csproj",
+  "projectFilePath": "D:\\github-demo\\test\\test.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
